@@ -1,2 +1,2 @@
 # basic
-A solid starter repo for getting projects going quickly
+A solid starter repo for getting graphical C projects going quickly

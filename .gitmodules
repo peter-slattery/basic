@@ -1,0 +1,6 @@
+[submodule "lib/HandmadeMath"]
+	path = lib/HandmadeMath
+	url = git@github.com:HandmadeMath/HandmadeMath.git
+[submodule "lib/sokol"]
+	path = lib/sokol
+	url = git@github.com:floooh/sokol.git
